@@ -11,7 +11,7 @@
 ### Phase 1: プロジェクトセットアップとインフラストラクチャ
 
 - [ ] 1. プロジェクトの初期化と開発環境のセットアップ
-- [ ] 1.1 (P) バックエンドプロジェクトの初期化
+- [x] 1.1 (P) バックエンドプロジェクトの初期化
   - Node.js 20.x LTS + TypeScriptでプロジェクトを作成
   - Express、Prisma、Socket.io、bcrypt、jsonwebtokenなどの依存関係をインストール
   - ESLintとPrettierで型安全性とコード品質を確保
